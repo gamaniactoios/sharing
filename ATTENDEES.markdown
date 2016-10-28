@@ -3,7 +3,7 @@
 ## 目前成員
 
 - vc7 | [GitHub](https://github.com/vc7)
-- Jason | GitHub
+- Jason | [GitHub](https://github.com/JumpingDaiDai)
 - Richard | [GitHub](https://github.com/exp50000)
 
 ## OB 區
