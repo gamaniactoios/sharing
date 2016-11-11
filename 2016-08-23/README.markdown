@@ -6,7 +6,7 @@
 
 1. vc7 (@vc7) - [[簡報](https://speakerdeck.com/vc7/manage-styles-in-ios-gong-si-nei-fen-xiang-hui)] - 如何管理 app 內的樣式
 2. Jason - Unit Test 分享, [100+ Awesome Swift Playgrounds For Learning The Swift Programming Language](https://hackerlists.com/swift-playgrounds/)
-3. Richard (@exp50000) - [[簡報](https://speakerdeck.com/exp50000/auto-layout)] - 淺談 Auto Layout 內涵及實作心得
+3. Richard (@exp50000) - [[簡報](https://speakerdeck.com/exp50000/ios-auto-layout)] - 淺談 Auto Layout 內涵及實作心得
 
 ## 其他連結
 
